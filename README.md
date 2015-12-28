@@ -13,3 +13,9 @@ Code Considerations: In order to keep the scope of HAB's application contained s
 
 The detailed approach on building this application are described in a separate document from this README file that is submitted along with the RFI response.
 
+Code access and use steps:
+1) The code is a set of HTML, CSS and JS files that can be accessed from the GitHub URL https://github.com/MSOL-Inc/EPA-RFI-HAB. Copy the GitGub URL and place it in the location field of your browser window. 
+2) Towards the right hand side of this page, close to the center of the page, there is a "Download ZIP" button. Click this button and save the zip file on your destop.
+3) Locate the zip file in the file explorer and right click it to extract all the content from the zip file.
+4) Double click on the "BloomReportForm.html" file from the extracted set of files and launch it in a web browers to fill the Bloom form fields and report Algae Bloom.
+
