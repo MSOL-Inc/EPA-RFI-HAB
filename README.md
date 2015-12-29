@@ -16,7 +16,7 @@ The detailed approach on building this application is described in a separate do
 Code access and application use steps:
 1) Click the following URL, https://github.com/MSOL-Inc/EPA-RFI-HAB, or cut and paste it into your browser. 
 2) Click the "Download Zip" button on the right side of the page
-3) Unzip or extract the files in the downloaded compressed folder and save them to your desktop
+3) Unzip or extract the files and save them to your desktop. The demonstration will not fully execute from a compressed folder. 
 4) Click on "BloomReportForm.html" in the extracted folder to open it in the web browser. (Note: This application was extensively tested in Firefox. For best results use Firefox browser. Other browsers can be used, however user experience might vary.)
 5) Complete the form fields in the Algae Bloom Report form. 
 6) When finished, click "Submit"
