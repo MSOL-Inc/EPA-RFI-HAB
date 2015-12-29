@@ -11,11 +11,14 @@ Code Considerations: In order to keep the scope of HAB's application contained s
 2) Solution is built around the web browser form but the same form should be usable over other form factors including tablets or smartphones. 
 3) The form submission capability is contained on the client side only to minimize the application design, development and deployment complexitity. 
 
-The detailed approach on building this application is described in a separate document from this README file that is submitted along with the RFI response.
+The detailed approach on building this application is described in a separate document from this README file that is submitted along with the RFI response. The application code is a set of HTML, CSS and JS files that can be accessed from the GitHub URL https://github.com/MSOL-Inc/EPA-RFI-HAB. Step by step instructions access this code and use it for demonstration purposes are as follows:
 
-Code access and use steps:
-1) The code is a set of HTML, CSS and JS files that can be accessed from the GitHub URL https://github.com/MSOL-Inc/EPA-RFI-HAB. Copy the GitGub URL and place it in the location field of your browser window. 
-2) Towards the right hand side of this page, close to the center of the page, there is a "Download ZIP" button. Click this button and save the zip file on your desktop.
-3) Locate the zip file in the file explorer and right click it to extract all the content from the zip file.
-4) Double click on the "BloomReportForm.html" file from the extracted set of files and launch it in a web brower to fill the Bloom form fields and report Algae Bloom.
+Code access and application use steps:
+1) Click the following URL, https://github.com/MSOL-Inc/EPA-RFI-HAB, or cut and paste it into your browser. 
+2) Click the "Download Zip" button on the right side of the page
+3) Unzip the files and save them to your desktop
+4) Click on "BloomReportForm.html" to open it in the web browser. (Note: This application was extensively tested in Firefox. For best results use Firefox browser. Other browsers can be used however user experience might vary.)
+5) Complete the form fields in the Algae Bloom Report form. 
+6) When finished, click "Submit"
+7) The system will summarize your input in an email in your default email program. (Note: The "To" address field contains a dummy email address in order to prevent smap emails to a valid mailbox. Hence sending the email should fail as an intended step for this demonstration application.)
 
