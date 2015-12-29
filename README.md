@@ -1,6 +1,6 @@
 # EPA-RFI-HAB
 
-Description:The code on this GitHub repository is created in response to the U.S. Environmental Protection Agency (EPA) Request for Information (RFI) to demonstrate Macro Solutions practices to provide digital services. Macro Solutions has provided digital service capabilities to its existing clients in the areas of agile software development, agile architecture, modular development, test-driven development and DevOps. 
+Description: The code on this GitHub repository is created in response to the U.S. Environmental Protection Agency (EPA) Request for Information (RFI) to demonstrate Macro Solutions practices to provide digital services. Macro Solutions has provided digital service capabilities to its existing clients in the areas of agile software development, agile architecture, modular development, test-driven development and DevOps. 
 
 This README file outlines the objective of the small project that Macro Solutions built using agile Scrum sprints to demonstrate the agile software development practice. Given the short duration of the response Macro solutions selected to work on an application idea from EPA's application showcase called Harmful Algal Bloom Reporting App (HABs). (Details available at http://developer.epa.gov/hab-challenge/)
 
